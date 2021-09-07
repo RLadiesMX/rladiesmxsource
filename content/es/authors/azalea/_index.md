@@ -46,6 +46,8 @@ social:
 user_groups:
 - Organizadoras
 - Comité organizador 2020
+- Comité organizador 2021
+
 ---
 
 Soy académica en la Facultad de Psicología de la UNAM. Mis líneas de investigación son las neurociencias cognitivas, afectivas y sociales. 

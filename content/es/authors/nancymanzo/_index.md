@@ -43,6 +43,8 @@ social:
 user_groups:
 - Organizadoras
 - Comité organizador 2020
+- Comité organizador 2021
+
 ---
 
 Egresada de la licenciatura en economía por la Universidad de Guadalajara, con interés especial en la investigación cuantitativa sobre las trabajadoras del hogar y el empleo laboral feminizado. Creyente de que los datos pueden ayudar a explicar mejor un todo. 
