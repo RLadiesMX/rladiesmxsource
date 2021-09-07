@@ -16,10 +16,12 @@ superuser: false
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: github
+  icon_pack: fab
+  link: https://github.com/r-ladiesGdl
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/RLadiesGDL
-
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: "@rladies.org"
