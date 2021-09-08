@@ -43,3 +43,10 @@ user_groups:
 
 ---
 
+Tapatía. Ingeniera mecatrónica egresada del Centro de Enseñanza Técnica Industrial con gran interés en la programación orientada al análisis de datos en lenguajes como Python y R. 
+
+Intereses: 
+- Visualización de datos 
+- Bases de datos 
+- Sistemas Expertos
+- IA (Inteligencia Artificial)
