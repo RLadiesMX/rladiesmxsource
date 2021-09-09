@@ -43,4 +43,4 @@ user_groups:
 
 ---
 
-Doctora en ciencias en biotecnología. Mi principal interés es la dinámica de las poblaciones silvestres, sus procesos demográficos, de dispersión, de flujo genético y de adaptación local al ambiente. Para investigar dichos procesos integro datos genéticos y ecológicos, a través de disciplinas como la genética de poblaciones, bioinformática y la ecología microbiana. 
+Doctora en Ciencias en Biotecnología. Mi principal interés es la dinámica de las poblaciones silvestres, sus procesos demográficos, de dispersión, de flujo genético y de adaptación local al ambiente. Para investigar dichos procesos integro datos genéticos y ecológicos, a través de disciplinas como la genética de poblaciones, bioinformática y la ecología microbiana. 
