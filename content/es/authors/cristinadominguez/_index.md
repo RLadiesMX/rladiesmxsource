@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cristina Domínguez
+title: Cristina Alejandra Domínguez Mendoza
 
 # Username (this should match the folder name)
 authors:
