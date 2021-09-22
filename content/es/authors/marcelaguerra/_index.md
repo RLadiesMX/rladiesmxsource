@@ -37,5 +37,6 @@ social:
 user_groups:
 - Organizadoras
 - Comité organizador 2020
+- Comité organizador 2021
 
 ---
