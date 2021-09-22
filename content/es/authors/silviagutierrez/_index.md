@@ -43,6 +43,7 @@ email: "silviaegt@gmail.com"
 user_groups:
 - Organizadoras
 - Comité organizador 2020
+- Comité organizador 2021
 
 ---
 
