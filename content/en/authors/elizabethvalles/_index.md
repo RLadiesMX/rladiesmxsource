@@ -38,8 +38,8 @@ email: "elizabeth.valless@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Organizadoras
-- Comité organizador 2021
+- Organizers
+- Organizers of RLadiesMX 2021
 
 ---
 
