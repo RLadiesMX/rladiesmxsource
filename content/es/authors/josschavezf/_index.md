@@ -50,9 +50,9 @@ user_groups:
 
 ---
 
-Soy estudiante de Doctorado en el [Laboratorio de Genómica Computacional](https://biocomputo.ibt.unam.mx) del  [IBT-UNAM](https://www.ibt.unam.mx), mi proyecto está enfocado en realizar análisis bioinformáticos para el estudio de la regulación génica. 
+Soy Doctora en Ciencias Bioquímicas y actualmente realizo una estancia Postdoctoral en la [Icahn School of Medicine en Mount Sinai](https://icahn.mssm.edu), donde me enfoco en el desarrollo de software para el análisis de datos transcripcionales espaciales de célula única.
 
-Me interesa el desarrollo de paquetes de R, participar en comunidades que promueven el uso de software libre y dar clases de programación.
+Además de la investigacióm, me interesa el desarrollo de paquetes de R, participar en comunidades que promueven el uso de software libre y dar clases de programación.
 
 Intereses:
 - Bioinformática

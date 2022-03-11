@@ -51,14 +51,13 @@ user_groups:
 
 ---
 
-I am a Ph.D. Student at [IBT-UNAM](https://ww.ibt.unam.mx) in the [Computational Genomics Lab](https://biocomputo.ibt.unam.mx) focused on bioinformatics and gene regulation. 
+I'm a Postdoctoral Fellow at the [Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu) focused on the development of open source software for spatial transcriptomics. 
 
-I am interested in R package development, expanding R communities and teaching.
+Besides my work's project, I'm interested in R package development, expanding R communities, and teaching.
 
 
 Interests:
 
-- Genomics
 - Bioinformatics
 - Software Development
 - R Communities
