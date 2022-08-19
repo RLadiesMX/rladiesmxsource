@@ -40,6 +40,7 @@ social:
 user_groups:
 - Organizadoras
 - Comité organizador 2021
+- Comité organizador 2022
 
 ---
 

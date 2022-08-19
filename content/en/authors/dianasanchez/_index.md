@@ -42,6 +42,7 @@ social:
 user_groups:
 - Organizers
 - Organizers of RLadiesMX 2021
+- Organizers of RLadiesMX 2022
 
 ---
 
