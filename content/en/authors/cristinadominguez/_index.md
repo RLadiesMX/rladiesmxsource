@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: R-Ladies Comitán
+role: R-Ladies Comitán, San Cristóbal de las Casas
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
