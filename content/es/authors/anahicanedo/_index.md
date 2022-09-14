@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Anahí Canedo Texón
+title: Anahí Canedo Téxon
 
 # Username (this should match the folder name)
 authors:
