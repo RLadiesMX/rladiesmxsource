@@ -46,6 +46,7 @@ email: "tinagodoy@gmail.com"
 user_groups:
 - Organizadoras
 - Comité organizador 2022
+- Comité organizador 2024
 
 ---
 

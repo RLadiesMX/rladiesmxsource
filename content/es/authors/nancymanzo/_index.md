@@ -45,6 +45,7 @@ user_groups:
 - Comité organizador 2020
 - Comité organizador 2021
 - Comité organizador 2022
+- Comité organizador 2023
 
 ---
 

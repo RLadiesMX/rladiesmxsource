@@ -45,6 +45,7 @@ user_groups:
 - Organizers of RLadiesMX 2020
 - Organizers of RLadiesMX 2021
 - Organizers of RLadiesMX 2022
+- Organizers of RLadiesMX 2024
 
 ---
 

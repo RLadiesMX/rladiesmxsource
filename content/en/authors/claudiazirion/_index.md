@@ -40,7 +40,6 @@ email: "clauzirion@gmail.com"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Organizers
-- Comité organizador 2024
 
 ---
 
