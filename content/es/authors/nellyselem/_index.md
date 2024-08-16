@@ -17,9 +17,9 @@ role: R-Ladies Morelia
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:joselynchavezf@gmail.com'
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:nselem@matmor.unam.mx'
 - icon: github
   icon_pack: fab
   link: https://github.com/nselem
@@ -34,7 +34,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: "joselynchavezf@gmail.com"
+email: "nselem@matmor.unam.mx"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -53,3 +53,11 @@ I'm a founder member of[ _BetterLab_](https://www.facebook.com/BetterLab-9608543
 I am interested in the genome evolution of Archaea, Bacteria, and Fungi. For my work, I received the L'oréal award for women in science 2021. To me, everything is teamwork and that is what I expect from my students. Life-work balance it is important, family and social contribution matters to me. 
 
 I like to skate and share, because of that I’m a member of the development program [Girls Hockey League](https://www.facebook.com/Girls-Hockey-League-M%C3%A9xico-104021021498610/) Mexico.
+
+Intereses:
+
+- Metagenomics 
+- Natural Products 
+- Bacterial Genomics 
+- R-Ladies 
+- Wikipedia
