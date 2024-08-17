@@ -1,10 +1,10 @@
 ---
 # Display name
-title: R-Ladies Cuernavaca
+title: R-Ladies Ciudad Obregón
 
 # Username (this should match the folder name)
 authors:
-- cuernavaca
+- ciudadobregon
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,21 +18,22 @@ superuser: false
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:cuernavaca@rladies.org"
-- icon: github
-  icon_pack: fab
-  link: https://github.com/RLadiesCuerna
+  link: "mailto:rladiessonora@gmail.com"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/RLadiesCuerna
+  link: https://twitter.com/RLadies_Sonora
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/profile.php?id=100075212402926
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "cuernavaca@rladies.org"
+email: "rladiessonora@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Chapters
+- Capítulos
 
 ---
 
