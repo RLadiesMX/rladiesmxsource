@@ -25,6 +25,10 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/r_ladiesGTO
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/profile.php?id=61564166782006
+  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "guanajuato@rladies.org"
