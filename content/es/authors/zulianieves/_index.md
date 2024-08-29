@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: R-Ladies Guanajuato
+role: R-Ladies Guanajuato, R-Ladies Tepic
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
